@@ -5,41 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bee22331-bd82-4109-932f-9fbe8f600199" name="Changes" comment="Doing front">
-      <change afterPath="$PROJECT_DIR$/frontend/src/assets/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/helpers/http.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/views/DriverView.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/views/LandingView.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/views/LocationView.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/views/LoginView.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/views/MapView.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/views/StandByView.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/views/TripView.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.vscode/extensions.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.vscode/extensions.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/public/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/assets/base.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/assets/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/assets/css/logo.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/assets/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/components/HelloWorld.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/HelloWorld.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/components/TheWelcome.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/TheWelcome.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/components/WelcomeItem.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/WelcomeItem.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/components/icons/IconCommunity.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/icons/IconCommunity.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/components/icons/IconDocumentation.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/icons/IconDocumentation.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/components/icons/IconEcosystem.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/icons/IconEcosystem.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/components/icons/IconSupport.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/icons/IconSupport.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/components/icons/IconTooling.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/icons/IconTooling.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/router/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/stores/counter.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/stores/location.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/views/AboutView.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/views/HomeView.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/vite.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/views/StandByView.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/views/StandByView.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -276,7 +243,7 @@
       <workItem from="1689050931702" duration="55000" />
       <workItem from="1690450546706" duration="1472000" />
       <workItem from="1690453415892" duration="6586000" />
-      <workItem from="1690530158694" duration="13155000" />
+      <workItem from="1690530158694" duration="13618000" />
     </task>
     <task id="LOCAL-00001" summary="Doing front">
       <option name="closed" value="true" />
@@ -286,7 +253,23 @@
       <option name="project" value="LOCAL" />
       <updated>1688993669108</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Doing front">
+      <option name="closed" value="true" />
+      <created>1690545679850</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1690545679850</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Doing front">
+      <option name="closed" value="true" />
+      <created>1690545745730</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1690545745730</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
