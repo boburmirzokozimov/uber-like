@@ -1,5 +1,26 @@
 <script setup>
+import {onMounted} from "vue";
+import Echo from 'laravel-echo';
+import Pusher from "pusher-js";
 
+Pusher
+onMounted(() => {
+  let echo = new Echo({
+    broadcaster: 'pusher',
+    key: 'mykey',
+    cluster: 'mt1',
+    wsHost: window.location.hostName,
+    wsPort: 6001,
+    forceTls: false,
+    disableStats: true,
+    enabledTransports: ['ws', 'wss']
+  })
+
+  echo.channel('drivers')
+      .listen('TripStarted', (e) => {
+        console.log(e)
+      })
+})
 </script>
 
 <template>
@@ -16,5 +37,4 @@
 </template>
 
 <style scoped>
-
 </style>
